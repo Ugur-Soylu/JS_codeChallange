@@ -1,0 +1,7 @@
+You will write an anonymous function.
+It will take two values. price and tax.
+It will increase the price as much as the tax rate and give out.
+The output will be with return . Your answers will also include calling the function.
+For example:
+If the price is 50 and the tax rate is 18, the output will be 59.
+Extra: The customer bought more than one item, transact with the same tax rate and return the total price he will pay.
