@@ -1,0 +1,3 @@
+Write a function that finds all the desired letters or values in a string.
+Regex will not be used.
+If there is no searched value in the string we will return the user that there is no match.
