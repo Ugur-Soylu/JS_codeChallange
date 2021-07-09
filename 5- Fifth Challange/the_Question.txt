@@ -1,0 +1,10 @@
+Find the Celsius and Fahrenheit heat exchange formulas online.
+What is required of you:
+1. Greet the user with prompt.
+   a. Ask which of the Celsius -> Fahrenheit and Fahrenheit -> Celcius cycles you want.
+   b. Have the option to exit.
+   c. Prevent entering values other than what you want.
+2. Get the number to convert after receiving the user's request.
+   Here let there be separate functions for c -> F and F ->.
+   perform the desired conversion operation and print the result to the console.
+   Two digits after the comma are sufficient in the output.
